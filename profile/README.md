@@ -9,7 +9,7 @@ Focused on stability and performance, our tools are built to help your PC run be
 #### **Find Us Here:**  
 - 🌐 **[Website](https://rapid-community.ru)** – Learn more about what we do.  
 - 📖 **[Docs](https://docs.rapid-community.ru)** – Handy guides to get started.  
-- ⬇️ **[Download](https://rapid-community.ru/download)** – Get it now.  
+- ⬇️ **[Download](https://rapid-community.ru/download)** – Get RapidOS now.  
 - 💬 **[Discord](https://dsc.gg/rapid-community)** – Chat with others like you.  
 
 **Rapid Community** – A better way to tweak Windows.  
