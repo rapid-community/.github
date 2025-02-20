@@ -1,15 +1,15 @@
 <p align="left"><a href="https://github.com/rapid-community"><img src="https://github.com/rapid-community/.github/blob/main/profile/rapid-logo.png" alt="RapidOS logo" width="75"/></a></p>
 
 ### Rapid Community
-#### Simple and Effective Windows Tweaks  
+#### Straightforward Windows Tweaks
 
-We're here to make tweaking Windows easy and reliable.
-Focused on stability and performance, our tools are built to help your PC run better without all the extra fuss.  
+We're all about making Windows tweaks simple and solid.
+Our tools focus on stability and speed, helping your PC run smoother without any unnecessary clutter.
 
-#### **Find Us Here:**  
-- 🌐 **[Website](https://rapid-community.ru)** – Learn more about what we do.  
-- 📖 **[Docs](https://docs.rapid-community.ru)** – Handy guides to get started.  
-- ⬇️ **[Download](https://rapid-community.ru/download)** – Get RapidOS now.  
-- 💬 **[Discord](https://dsc.gg/rapid-community)** – Chat with others like you.  
+#### **Find Us Here:**
+- 🌐 **[Website](https://rapid-community.ru)** - Check out what we're up to.
+- 📖 **[Docs](https://docs.rapid-community.ru)** - Useful guides to get you going.
+- ⬇️ **[Download](https://rapid-community.ru/download)** - Grab RapidOS here.
+- 💬 **[Discord](https://dsc.gg/rapid-community)** - Have a natter with the community.
 
-**Rapid Community** – A better way to tweak Windows.  
+**Rapid Community** - a better way to tweak Windows.
